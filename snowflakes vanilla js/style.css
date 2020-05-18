@@ -1,0 +1,19 @@
+.snowflake {
+	display:none;
+}
+
+div {
+	width:16px;
+	height:16px;
+	position: absolute;
+	top:0;
+	left: 0;
+	font-family: 'Arial';
+	font-size:60px;
+	color: #fff;
+}
+
+body {
+	overflow: hidden;
+	background-color: #333;
+}
